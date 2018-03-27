@@ -1,0 +1,14 @@
+{
+    "name": "Teste PHPMailer",
+    "description": "Testando o PHPMailer 6",
+    "authors": [
+        {
+            "name": "Victor Coutinho",
+            "email": "victormelo@id.uff.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
